@@ -1,2 +1,2 @@
 # crop images
-batch & python 
+batch & python (for .png files)
