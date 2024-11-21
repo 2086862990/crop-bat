@@ -1,1 +1,2 @@
-# kirito
+# crop images
+batch & python 
